@@ -1,0 +1,1 @@
+{"name":"AR Parts","filter":[{"LPAREN":false,"NAME":"ps_bis_store","OPERATOR":"=","VALUE":"DUS4-AR","JOINER":"AND","RPAREN":false}],"sort":[{"NAME":"ps_bis_bin","TYPE":"ASC"}],"field":[{"NAME":"ps_bis_part","WIDTH":"100"},{"NAME":"ps_bis_bin","WIDTH":"100"},{"NAME":"ps_cat_ref","WIDTH":"100"},{"NAME":"ps_sto_qty","WIDTH":"50"},{"NAME":"partdesc","WIDTH":"600"}]}
